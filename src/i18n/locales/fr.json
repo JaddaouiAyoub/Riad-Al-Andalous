@@ -1,0 +1,149 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "rooms": "Chambres",
+    "experiences": "Expériences",
+    "blog": "Blog",
+    "gallery": "Galerie",
+    "testimonials": "Témoignages",
+    "about": "À propos",
+    "contact": "Contact",
+    "bookNow": "Réserver maintenant"
+  },
+  "hero": {
+    "title": "Découvrez l'élégance d'un riad marocain",
+    "subtitle": "Une oasis de tranquillité au cœur de la médina",
+    "bookButton": "Réserver",
+    "roomsButton": "Voir les chambres"
+  },
+  "rooms": {
+    "title": "Nos Chambres",
+    "subtitle": "Des espaces authentiques pour un séjour inoubliable",
+    "royalSuite": {
+      "name": "Suite Royale",
+      "description": "Notre suite la plus prestigieuse avec patio privé et baignoire en marbre",
+      "price": "450€",
+      "perNight": "/nuit"
+    },
+    "deluxeRoom": {
+      "name": "Chambre Deluxe",
+      "description": "Une chambre élégante avec vue sur le patio et salle de bain traditionnelle",
+      "price": "280€",
+      "perNight": "/nuit"
+    },
+    "standardRoom": {
+      "name": "Chambre Standard",
+      "description": "Un havre de paix confortable avec tous les équipements modernes",
+      "price": "180€",
+      "perNight": "/nuit"
+    },
+    "amenities": {
+      "wifi": "WiFi",
+      "pool": "Piscine",
+      "hammam": "Hammam",
+      "breakfast": "Petit-déjeuner",
+      "ac": "Climatisation",
+      "parking": "Parking",
+      "spa": "Spa",
+      "rooftop": "Rooftop"
+    },
+    "viewDetails": "Voir les détails"
+  },
+  "experiences": {
+    "title": "Expériences Marocaines",
+    "subtitle": "Plongez dans la culture et les traditions du Maroc",
+    "hammam": {
+      "title": "Hammam Traditionnel",
+      "description": "Revivez l'antique rituel de purification dans notre hammam traditionnel"
+    },
+    "spa": {
+      "title": "Massage Spa",
+      "description": "Détendez-vous avec nos massages aux huiles d'argan bio"
+    },
+    "cooking": {
+      "title": "Cours de Cuisine",
+      "description": "Apprenez les secrets de la cuisine marocaine avec notre chef"
+    },
+    "desert": {
+      "title": "Excursion Désert",
+      "description": "Partez à l'aventure dans le Sahara en 4x4 ou à dos de chameau"
+    },
+    "medina": {
+      "title": "Visite Guidée Médina",
+      "description": "Découvrez les trésors cachés de la médina avec un guide local"
+    },
+    "music": {
+      "title": "Soirée Musique Andalouse",
+      "description": "Laissez-vous bercer par les mélodies traditionnelles andalouses dans notre patio"
+    },
+    "art": {
+      "title": "Atelier d'Artisanat",
+      "description": "Apprenez les techniques ancestrales du zellij et de la poterie marocaine"
+    },
+    "tea": {
+      "title": "Cérémonie du Thé",
+      "description": "Participez à la traditionnelle cérémonie du thé à la menthe, symbole d'hospitalité"
+    },
+    "bookExperience": "Réserver cette expérience"
+  },
+  "blog": {
+    "title": "Notre Blog",
+    "subtitle": "Découvrez les traditions, l'histoire et la culture marocaine à travers nos articles",
+    "readMore": "Lire la suite",
+    "viewAll": "Voir tous les articles"
+  },
+  "gallery": {
+    "title": "Notre Galerie",
+    "subtitle": "Laissez-vous séduire par la beauté de notre riad"
+  },
+  "testimonials": {
+    "title": "Témoignages",
+    "subtitle": "Ce que nos hôtes disent de leur séjour",
+    "guest1": {
+      "name": "Sophie Martin",
+      "country": "France",
+      "text": "Un séjour magique ! L'accueil a été chaleureux, les chambres sont magnifiques et le petit-déjeuner sur la terrasse est inoubliable."
+    },
+    "guest2": {
+      "name": "John Smith",
+      "country": "États-Unis",
+      "text": "The most authentic Moroccan experience. The staff went above and beyond to make our stay perfect. The hammam is a must-try!"
+    },
+    "guest3": {
+      "name": "Maria Garcia",
+      "country": "Espagne",
+      "text": "Un auténtico paraíso en el corazón de la medina. La decoración es espectacular y el servicio impecable. Volveremos seguro."
+    }
+  },
+  "booking": {
+    "title": "Réservez votre séjour",
+    "subtitle": "Réservez directement pour les meilleurs tarifs",
+    "name": "Nom complet",
+    "email": "Email",
+    "checkIn": "Date d'arrivée",
+    "checkOut": "Date de départ",
+    "guests": "Nombre de personnes",
+    "roomType": "Type de chambre",
+    "selectRoom": "Sélectionnez une chambre",
+    "submit": "Réserver maintenant",
+    "success": "Votre réservation a été envoyée ! Nous vous contacterons bientôt."
+  },
+  "about": {
+    "title": "Notre Histoire",
+    "subtitle": "Un héritage de plus de 200 ans",
+    "paragraph1": "Riad Al Andalous est né de la passion pour l'architecture traditionnelle marocaine. Construit il y a plus de deux siècles, ce palais a été méticuleusement restauré pour préserver son authenticité tout en offrant le confort moderne.",
+    "paragraph2": "Chaque zellige, chaque arche, chaque lanterne raconte une histoire. Notre riad est un véritable musée vivant où l'artisanat marocain est célébré dans chaque détail. Les traditions séculaires de l'hospitalité marocaine s'expriment à travers nos rituels quotidiens : la cérémonie du thé, les repas partagés autour du même plat, et l'accueil chaleureux réservé à chaque hôte.",
+    "paragraph3": "Nous perpétuons les coutumes ancestrales tout en les adaptant à notre époque. Découvrez la magie des nuits d'été sous les étoiles, les parfums envoûtants des épices du souk, et l'art de vivre marocain dans toute sa splendeur."
+  },
+  "footer": {
+    "address": "12 Derb El Hammam, Médina, Marrakech",
+    "phone": "+212 524 123 456",
+    "email": "contact@riadalandalous.ma",
+    "followUs": "Suivez-nous",
+    "links": "Liens rapides",
+    "newsletter": "Newsletter",
+    "newsletterText": "Inscrivez-vous pour recevoir nos offres exclusives",
+    "subscribe": "S'inscrire",
+    "rights": "Tous droits réservés"
+  }
+}

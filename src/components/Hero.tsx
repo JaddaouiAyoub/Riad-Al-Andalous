@@ -135,7 +135,7 @@ export const Hero = () => {
               onClick={() => scrollToSection('#rooms')}
               size="lg"
               variant="outline"
-              className="border-2 border-white/50 text-white hover:bg-white/10 rounded-full px-8 py-6 text-lg backdrop-blur-sm"
+              className="bg-orange-400 hover:bg-orange-500 text-white border-2 border-white/50 rounded-full px-8 py-6 text-lg backdrop-blur-sm"
             >
               <Bed className="w-5 h-5 mr-2" />
               {t('hero.roomsButton')}

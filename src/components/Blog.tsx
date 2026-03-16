@@ -256,7 +256,7 @@ const Blog = () => {
 
         {/* Blog Post Dialog */}
         <Dialog open={!!selectedPost} onOpenChange={() => setSelectedPost(null)}>
-          <DialogContent className="max-w-4xl max-h-[90vh] overflow-y-auto">
+          <DialogContent className="w-[60vw] !max-w-none max-h-[90vh] overflow-y-auto">
             {selectedPost && (() => {
               const post = blogPosts.find(p => p.id === selectedPost);
               if (!post) return null;
